@@ -1,0 +1,9 @@
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin: "contrast" # You can change this later to 'dark', 'air', etc.
+plugins:
+  - jekyll-include-cache
+
+title: "Merritt Alspaugh"
+name: "Merritt Alspaugh"
+description: "Aeronautical & Astronautical Engineering Portfolio"
+url: "https://[your-username].github.io"
